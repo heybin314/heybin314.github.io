@@ -1,6 +1,46 @@
 ---
 layout: me
-title: me
+title: About Me
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lobortis placerat enim nec cursus. Ut et elit congue, facilisis dui id, efficitur velit. Integer faucibus velit varius arcu consectetur aliquam. Sed dui ante, euismod non malesuada vel, suscipit vel elit. Nullam tempor vehicula urna, sed dignissim ligula hendrerit in. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin et nisi eget nunc vehicula posuere. Nam elementum finibus auctor. Suspendisse a mauris et arcu molestie egestas sed et dolor. Nullam ut est tristique, iaculis tortor non, viverra felis. Praesent a tincidunt tellus, eget congue eros. Mauris non libero nec ipsum ultricies tincidunt sit amet nec ante. Duis molestie sem at ligula rhoncus viverra. Pellentesque sit amet tortor euismod, rhoncus lacus a, sodales odio. Proin ac convallis ipsum. Cras tincidunt mollis consequat.
+<p>
+Hello! I’m Ha Bin Cho, a passionate individual with a diverse background and a keen interest in technology, sustainability, and the energy sector. Let me share a bit more about myself:
+
+</p>
+
+<h3>Education</h3>  
+
+<p>
+
+    I completed my Bachelor of Science in Information System Management at the University of Applied Science Dortmund.
+    Currently, I’m pursuing my Master of Science in International Business with a specialization in Information Management and Business Intelligence at Maastricht University.
+</p>
+ <h3>Life</h3>
+<p>
+    Originally from Seoul, South Korea, I’ve spent most of my life in Germany, where I was raised. This unique blend of cultures has shaped my perspective and enriched my experiences. Currently 
+    I am living in the Netherlands where I pursue my Master's degree in Internation Business.
+</p>
+
+<h3>Language Skills</h3>
+<p>
+    I’m fluent in both German and English, allowing me to communicate effectively across borders.
+    My proficiency in Korean is average, but I continue to improve.
+</p>
+<h3>Hobbies</h3>
+<p>
+When I’m not immersed in my studies or work, you’ll find me:
+
+    Cycling: Exploring scenic routes and enjoying the freedom of the open road.
+    Badminton: A sport that keeps me active and sharp.
+    Music: Whether playing an instrument or discovering new tunes, music is my escape.
+    Fashion: I appreciate style and love experimenting with different looks.
+</p>
+
+<h3>Professional Interests</h3>
+<p>
+My curiosity extends to the following areas:
+
+    Energy Sector: I’m fascinated by the evolving landscape of renewable energy and sustainable practices.
+    Digitalization: Exploring how technology transforms industries and enhances efficiency.
+    IT: From coding to cybersecurity, I thrive on staying up-to-date with technological advancements
+</p>
