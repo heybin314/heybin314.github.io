@@ -9,3 +9,8 @@ Demo: [Click here](https://h01000110.github.io/windows-95/)
 Author: [h01000110 (hi)](https://github.com/h01000110)
 
 License: [MIT](https://github.com/h01000110/windows-95/blob/master/LICENSE)
+
+Some links:
+https://www.w3schools.com/cssref/pr_background-image.php
+https://sass-lang.com/documentation/syntax/comments/
+https://www.w3schools.com/html/html_comments.asp
