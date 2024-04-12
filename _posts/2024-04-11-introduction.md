@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "About Me"
+title: "Quick Introduction"
 tags: aboutme
 ---
 <br />
