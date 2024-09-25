@@ -33,7 +33,8 @@ When I’m not immersed in my studies or work, you’ll find me:
 ## Professional Interests
 
 My curiosity extends to the following areas:
-- Energy Sector: I’m fascinated by the evolving landscape of renewable energy and sustainable practices.
+- Energy Sector: I am fascinated by the evolving landscape of renewable energy and sustainable practices.
+- Cyber Security: Recently, I have developed a keen interest in Cybersecurity throgh my work as a Cybersecurity Consultant at Deloitte.
 - Digitalization: Exploring how technology transforms industries and enhances efficiency.
 - IT: From coding to big data topics, I thrive on staying up-to-date with technological advancements. I also have experience in both coding and data analysis & visualizations.
 
